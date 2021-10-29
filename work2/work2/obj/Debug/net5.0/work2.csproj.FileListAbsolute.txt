@@ -1,0 +1,16 @@
+C:\Users\liron\source\repos\work2\work2\bin\Debug\net5.0\work2.exe
+C:\Users\liron\source\repos\work2\work2\bin\Debug\net5.0\work2.deps.json
+C:\Users\liron\source\repos\work2\work2\bin\Debug\net5.0\work2.runtimeconfig.json
+C:\Users\liron\source\repos\work2\work2\bin\Debug\net5.0\work2.runtimeconfig.dev.json
+C:\Users\liron\source\repos\work2\work2\bin\Debug\net5.0\work2.dll
+C:\Users\liron\source\repos\work2\work2\bin\Debug\net5.0\ref\work2.dll
+C:\Users\liron\source\repos\work2\work2\bin\Debug\net5.0\work2.pdb
+C:\Users\liron\source\repos\work2\work2\obj\Debug\net5.0\work2.csprojAssemblyReference.cache
+C:\Users\liron\source\repos\work2\work2\obj\Debug\net5.0\work2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liron\source\repos\work2\work2\obj\Debug\net5.0\work2.AssemblyInfoInputs.cache
+C:\Users\liron\source\repos\work2\work2\obj\Debug\net5.0\work2.AssemblyInfo.cs
+C:\Users\liron\source\repos\work2\work2\obj\Debug\net5.0\work2.csproj.CoreCompileInputs.cache
+C:\Users\liron\source\repos\work2\work2\obj\Debug\net5.0\work2.dll
+C:\Users\liron\source\repos\work2\work2\obj\Debug\net5.0\ref\work2.dll
+C:\Users\liron\source\repos\work2\work2\obj\Debug\net5.0\work2.pdb
+C:\Users\liron\source\repos\work2\work2\obj\Debug\net5.0\work2.genruntimeconfig.cache

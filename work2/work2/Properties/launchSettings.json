@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "work2": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\liron\\Desktop\\textFile.txt \"said Alice, who always took a great interest\" 3 0"
+    }
+  }
+}
