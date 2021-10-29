@@ -21,3 +21,6 @@ If it found, the method will print the index of the first occurrence of the stri
 In the end of the text, if all threats finished to run, and the program still running it means that the word we are looking for don’t exist so it will print a massage that the string is not found.
 
 
+Diagram:
+
+![image](https://user-images.githubusercontent.com/81233165/139415254-a3db48a5-12e1-4598-be12-3ab783c76ec4.png)
